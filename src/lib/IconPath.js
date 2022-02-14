@@ -1,10 +1,10 @@
 export const IconPath = {
   basket: '/icons/basket.svg',
-  groupView: '/icons/groupView.svg',
-  likeList: '/icons/likeList.svg',
+  groupView: '/icons/group-view.svg',
+  likeList: '/icons/like-list.svg',
   like: '/icons/like.svg',
-  myPage: '/icons/myPage.svg',
+  myPage: '/icons/my-page.svg',
   search: '/icons/search.svg',
-  shoppingMenu: '/icons/shoppingMenu.svg',
-  zHome: '/icons/zHome.svg',
+  shoppingMenu: '/icons/shopping-mall.svg',
+  zHome: '/icons/z-home.svg',
 };

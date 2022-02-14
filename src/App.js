@@ -1,12 +1,14 @@
 import React from 'react';
-import Header from './components/Header';
+import BottomNav from './components/Menu/BottomNav';
+import Header from './components/Menu/Header';
 import Best from './Page/Best';
 
 const App = () => {
   return (
-    <div className='p-3'>
+    <div className='px-3'>
       <Header />
       <Best />
+      <BottomNav />
     </div>
   );
 };

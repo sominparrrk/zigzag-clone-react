@@ -1,0 +1,17 @@
+export const CategoryData = [
+  { kor: '아우터', eng: 'outer' },
+  { kor: '상의', eng: 'top' },
+  { kor: '원피스/세트', eng: 'dressAndSet' },
+  { kor: '바지', eng: 'trousers' },
+  { kor: '스커트', eng: 'skirt' },
+  { kor: '슈즈', eng: 'shoes' },
+  { kor: '가방', eng: 'bag' },
+  { kor: '액세서리', eng: 'accessory' },
+  { kor: '패션소품', eng: 'fashionTool' },
+  { kor: '란제리/파자마', eng: 'langerieAndPJ' },
+  { kor: '트레이닝', eng: 'training' },
+  { kor: '빅사이즈', eng: 'bigSize' },
+  { kor: '비치웨어', eng: 'beachWear' },
+  { kor: '뷰티', eng: 'beauty' },
+  { kor: '라이프', eng: 'life' },
+];

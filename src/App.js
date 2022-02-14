@@ -1,7 +1,7 @@
 import React from 'react';
 import BottomNav from './components/Menu/BottomNav';
 import Header from './components/Menu/Header';
-import Best from './Page/Best';
+import Best from './views/Best';
 
 const App = () => {
   return (

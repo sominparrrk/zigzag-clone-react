@@ -3,7 +3,7 @@ import { IconPath } from '../../lib/IconPath';
 
 const Search = () => {
   return (
-    <div className='header__bar sticky top-2 bg-white flex justify-between items-center'>
+    <div className='header__bar sticky z-50 top-0 py-4 bg-white flex justify-between items-center'>
       <img
         src='https://www.ad-i.com/static/media/partners-zigzag.2ba5c906.svg'
         alt='logo'

@@ -3,7 +3,7 @@ import React from 'react';
 const Select = () => {
   return (
     <div className='personal__select__area flex justify-between my-2'>
-      <div className='age__area'>
+      <div className='age__area space-x-1'>
         <button className='border rounded-3xl border-gray-300 px-3 py-2 text-xs'>
           전체
         </button>

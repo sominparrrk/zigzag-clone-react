@@ -1,9 +1,14 @@
-import React from 'react'
+import React from 'react';
+import Header from './components/Header';
+import Best from './Page/Best';
 
 const App = () => {
   return (
-    <div>App</div>
-  )
-}
+    <div className='p-3'>
+      <Header />
+      <Best />
+    </div>
+  );
+};
 
-export default App
+export default App;
